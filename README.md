@@ -41,5 +41,5 @@
 ### Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabiannCS&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=333333&icon_color=092E20" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabiannCS&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=333333&icon_color=092E20" alt="Estadísticas de GitHub de FabiannCS" />
 </div>
