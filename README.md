@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola, soy Fabián Cuéllar</h1>
+  <h1>Hola, soy Fabian Cuellar</h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&typeSpeed=10&pause=200&duration=2000&color=38B2AC&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Full-Stack;Enfocado+en+Python,+Django+y+React;Creando+soluciones+a+medida" alt="Typing SVG" />
   
