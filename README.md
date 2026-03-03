@@ -13,16 +13,16 @@
 - Mi forma de trabajar se basa en estructurar buenas APIs con Python/Django y consumirlas desde aplicaciones ágiles con React o Astro.
 - Contacto: pcuellar366@gmail.com | [LinkedIn](https://www.linkedin.com/in/fabian-cuellar-salvatierra-900510342/) | [Portafolio](https://fabiancuellar.vercel.app/)
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=py,django,graphql,postgres,ts,react,astro,tailwind&perline=4" alt="Mis Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=py,django,graphql,postgres,ts,react,astro,tailwind,docker&perline=4" alt="Mis Tecnologías" />
   <br>
 </div>
 
 ### Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FabiannCS&theme=dark&hide_border=true&border_radius=5" alt="Estadísticas de FabiannCS" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabiannCS&theme=dracula" alt="Resumen de GitHub" />
 </div>
