@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola, soy Fabián Cuellar</h1>
+  <h1>Hola, soy Fabian Cuellar</h1>
   <h3>Desarrollador Web Full-Stack</h3>
   <p>Ayudo a negocios e instituciones a modernizar su operación desarrollando plataformas rápidas, seguras y fáciles de usar.</p>
 </div>
