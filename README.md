@@ -24,5 +24,5 @@
 ### Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabiannCS&theme=dracula" alt="Resumen de GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FabiannCS&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de FabiannCS" />
 </div>
