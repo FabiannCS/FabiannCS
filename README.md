@@ -16,30 +16,13 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  
-  **Frontend** <br>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Astro-0C1127?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <br><br>
-  
-  **Backend & APIs** <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <br><br>
-
-  **Bases de Datos** <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-
+  <br>
+  <img src="https://skillicons.dev/icons?i=py,django,graphql,postgres,ts,react,astro,tailwind&perline=4" alt="Mis Tecnologías" />
+  <br>
 </div>
-
----
 
 ### Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabiannCS&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=333333" alt="Lenguajes más usados por FabiannCS" />
+  <img src="https://streak-stats.demolab.com?user=FabiannCS&theme=dark&hide_border=true&border_radius=5" alt="Estadísticas de FabiannCS" />
 </div>
