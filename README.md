@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hola, soy Fabian Cuellar</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&typeSpeed=10&pause=200&duration=2000&color=38B2AC&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Full-Stack;Y+en+formacion+en+administracion+de+bases+de+datos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&typeSpeed=10&pause=200&duration=2000&color=38B2AC&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full-Stack;Enfocándome+en+administracion+de+bases+de+datos" alt="Typing SVG" />
   
-  <p>Ayudo a negocios e instituciones a modernizar su operación desarrollando plataformas rápidas, seguras y fáciles de usar.</p>
+  <p>Ayudo a negocios e instituciones a modernizar su operación desarrollando sistemas rápidos, seguros y fáciles de usar.</p>
 
   <a href="mailto:pcuellar366@gmail.com" target="_blank" style="margin-right: 5px;">
     <img src="https://img.shields.io/badge/-pcuellar366@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -20,9 +20,9 @@
 
 ### Sobre mí
 
-- Soy un desarrollador que disfruta entender el problema antes de empezar a escribir código. Me gusta saber para qué y para quién estoy construyendo.
+- Soy un desarrollador que disfruta entender el problema antes de empezar a escribir código. Me gusta saber para qué, para quién y con que finalidad estoy construyendo.
 - Construyo herramientas prácticas: portales de gestión, páginas comerciales y sistemas a medida. Me centro en que el producto final sea rápido, útil y fácil de mantener para quien lo vaya a administrar.
-- Mi forma de trabajar se basa en estructurar buenas APIs con Python/Django y consumirlas desde aplicaciones ágiles con React o Astro.
+- Mi forma de trabajar se basa en estructurar Bases de datos SQL, APIs con Python/Django y GraphQL y consumirlas desde aplicaciones ágiles con React, Astro o Next.js.
 
 ---
 
