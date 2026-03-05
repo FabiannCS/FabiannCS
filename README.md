@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hola, soy Fabian Cuellar</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&typeSpeed=10&pause=200&duration=2000&color=38B2AC&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full-Stack;Enfocándome+en+administracion+de+bases+de+datos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&typeSpeed=10&pause=200&duration=2000&color=38B2AC&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full-Stack;Enfocandome+en+administracion+de+bases+de+datos" alt="Typing SVG" />
   
   <p>Ayudo a negocios e instituciones a modernizar su operación desarrollando sistemas rápidos, seguros y fáciles de usar.</p>
 
